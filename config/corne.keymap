@@ -55,7 +55,7 @@
 &kp TILDE  &kp PRCNT  &kp AMPS  &kp QMARK   &kp PLUS    &kp AT      &kp DLLR       &kp UNDER        &kp LBKT      &kp RBKT  &kp EXCL   &kp HASH
 &kp GRAVE  &kp FSLH   &kp LPAR  &kp EQUAL   &kp N0      &kp LBRC    &kp RBRC       &kp N1           &kp STAR      &kp RPAR  &kp MINUS  &kp CARET
 &studio_unlock    &kp N6     &kp N7    &kp N8      &kp N9      &kp PIPE    &kp BACKSLASH  &kp N2           &kp N3        &kp N4    &kp N5     &trans
-                                &kp C_PREV  &kp C_NEXT  &trans      &kp C_MUTE     &kp C_VOLUME_UP  &kp C_VOL_DN
+                                &kp C_PREV  &kp C_NEXT  &trans      &kp C_MUTE     &kp C_VOLUME_UP  &trans
             >;
         };
 
